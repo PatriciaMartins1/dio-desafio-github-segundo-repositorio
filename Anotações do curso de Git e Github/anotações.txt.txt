@@ -1,0 +1,14 @@
+Anotações sobre as aulas de git e github
+link para download - https://git-scm.com/downloads
+
+Após criar o repositorio ir para o git bash e fazer clonagem do repositorio
+
+git clone 'link do repositorio'
+
+git status 'para ver os status do arquivo'
+
+git commit 'para fazer commit do arquivo'
+
+cd 'nome do arquivo' para entrar no arquivo
+
+Orientação do curso em criação de pastas para organizar as informações para estudos como anotações e links de acesso. 
