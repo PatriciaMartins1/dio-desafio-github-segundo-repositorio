@@ -9,6 +9,11 @@ git status 'para ver os status do arquivo'
 
 git commit 'para fazer commit do arquivo'
 
+git commit -m '- m coloca um comentario'
+
+git add . 'adiciona anova pasta criada'
+
+
 cd 'nome do arquivo' para entrar no arquivo
 
 Orientação do curso em criação de pastas para organizar as informações para estudos como anotações e links de acesso. 
